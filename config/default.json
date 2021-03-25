@@ -1,0 +1,6 @@
+{
+  "mongoUri": "mongodb+srv://katusha:12345950b@cluster0.bya1t.mongodb.net/weather-app?retryWrites=true&w=majority",
+  "port": 5000,
+  "jwtSecret" : "helloWorld",
+  "appid": "50be9722c8e77bb21025899a1c14e9c8"
+}
